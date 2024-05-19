@@ -1,0 +1,36 @@
+//Practical assignment based on Data Structures:-
+1. WAP to create a linear array named LA of size 6,and perform traversing    operation on it using function name "Traverse".
+2. WAP to insert an element from a linear array using function name "Insert".
+3. WAP to delete an element from a linear array using function name "delete".
+4. WAP to create a single node in linked list.
+5. WAP to create linked list at compile time having 4 node.
+6. WAP to create linked list having 4 node at runtime.
+7. WAP to perform traversing in linked list using function named "Traverse".
+8. WAP to insert a node at the beginning of the linked list.
+9. WAP to insert a node at the end of the linked list.
+10. WAP to insert a node at the specific position of the linked list.
+11. WAP to delete a node at the beginning of the linked list.
+12. WAP to delete a node at the end of the linked list.
+13. WAP to delete a node at the specific position of the linked list.
+14. WAP to create a grounded header linked list.
+15. WAP to create a circular linked list.
+16. WAP to perform push operation in stack using array at compile time.
+17. WAP to perform pop operation in stack using array at compile time.
+18. WAP to implement Stack operation in array using switch case.
+19. WAP to perform push operation in stack using linked list.
+20. WAP to perform pop operation in stack using linked list.
+21. WAP to find factorial of a given number using Recursion.
+22. WAP to find fibonacci series using Recursion.
+23. WAP to implement "Towers of Hanoi" problem using Recursion.
+24. WAP to insert an element into a QUEUE using array.
+25. WAP to delete an element from a QUEUE using array.
+26. WAP to implement binary tree and perform preorder traversal using recursion/stack.
+27. WAP to implement binary tree and perform inorder traversal using recursion/stack.
+28. WAP to implement binary tree and perform postorder traversal using recursion/stack.
+29. WAP to implement Linear search algorithm.
+30. WAP to implement Binary search algorithm.
+31. WAP to implement Bubble sort.
+32. WAP to implement Insertion sort.
+33. WAP to implement Selection sort.
+34. WAP to implement Merge sort.
+35. WAP to implement Quick sort.
